@@ -1,6 +1,6 @@
 |Forecasted Revenue|
 |---------------------------------------|
-|<img src="ForecastedRevenue.png"/>|
+|<img align="center" src="ForecastedRevenue.png"/>|
 |This graph displays projected revenue for a company based on the previous years sales.  It takes into account seasonality to create 10 weeks of revenue projections.|
 
 |Energy Consumption by Country 1990-2016|

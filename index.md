@@ -1,11 +1,11 @@
 |Forecasted Revenue|
 |---------------------------------------|
-|![](ForecastedRevenue.png)|
+|<p align="center"> <img src="ForecastedRevenue.png">|
 |This graph displays projected revenue for a company based on the previous years sales.  It takes into account seasonality to create 10 weeks of revenue projections.|
 
 |Energy Consumption by Country 1990-2016|
 |---------------------------------------|
-|![](EnergyChart.png)|
+|<p align="center"> <img src="EnergyChart.png">|
 |This graph shows the annual energy consumption refined by the Countries with the top five economies.  This shows the stagnant growth from Germany, Japan, and France.  The U.S. has seen a slight uptick in energy usage from 1990 while China’s industrializing economy has seen a large scale growth matched with the growth of its economy.|
 
 |Energy Consumption by Country in 2016|
@@ -15,7 +15,7 @@
 
 |Predicted New York City Bridge Traffic|
 |---------------------------------------|
-|![](BridgeUsage.png)|
+|<p align="center"> <img src="BridgeUsage.png">|
 |This graph shows the predicted traffic per bridge using a GLM.  This model takes into account day of week, weather, and other factors.  This shows that the Williamsburg takes the highest volume followed by the Manhattan Bridge.|
 
 |Houston Airport Inbound Traffic|
@@ -25,5 +25,5 @@
 
 |Grocery Spending Distributions|
 |---------------------------------------|
-|![](Kroger.png)|
+|<p align="center"> <img src="Kroger.png">|
 |This graph shows the percent distributions of spending habits at Kroger.  This data was useful for budgeting to show the areas and products in which the largest amount of money was going.  It allowed me to where I could look to save money and quit overspending.|

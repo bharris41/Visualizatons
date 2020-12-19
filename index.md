@@ -10,7 +10,7 @@
 
 |Energy Consumption by Country in 2016|
 |---------------------------------------|
-|![](EnergryMap.png)|
+|<p align="center"> <img src="Map2.png">|
 |This graph shows the 2016 energy consumption of the countries with the top 5 economies.  China and the U.S. are much greater than the rest with China consuming the most energy. |
 
 |Predicted New York City Bridge Traffic|
@@ -20,7 +20,7 @@
 
 |Houston Airport Inbound Traffic|
 |-|
-|![](HoustonMap.png)|
+|<p align="center"> <img src="HoustonMap.png">|
 |This graph displays the volume of flights from the original airport heading inbound to the Houston Airport.  This displays that the Austin airport sends the largest amount of planes to Houston.  It also shows a large influx from cities such as Albuquerque, Santa Fe, Denver, and Atlanta.|
 
 |Grocery Spending Distributions|
